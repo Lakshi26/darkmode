@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+.dark-heading{
+    font-size: 40px;
+}
+a{
+    margin-left: 40px;
+    font-size: 30px;
+    
+}
+icons{
+    margin-top: 40px;
+}
+#dark{
+    color: black;
+    margin-left: 10px;
+}
+#light{
+    color: black;
+    margin-left: -40px;
+}
